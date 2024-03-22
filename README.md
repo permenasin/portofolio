@@ -22,10 +22,6 @@ Welcome to the My Portofolio! This project is an interactive and immersive websi
 - GSAP (GreenSock Animation Platform)
 - Locomotive Scroll
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - [Inspiration](https://www.cyberfiction.io/)
